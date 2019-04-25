@@ -1,5 +1,5 @@
 {
-    "name": "vagrant/text",
+    "name": "adachsoft/text",
     "type": "library",
     "description": "Useful methods for text processing.",
     "license": "MIT",
